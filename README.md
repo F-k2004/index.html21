@@ -13,7 +13,7 @@
   }
   canvas {
     display: block;
-    filter: blur(6px) brightness(1.4);
+    ilter: blur(6px) brightness(1.4);
   }
 </style>
 </head>
